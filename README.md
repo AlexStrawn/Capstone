@@ -1,2 +1,2 @@
 # Capstone
-Used to create my Capstone Project for SAVVY Coders DAP Program
+Used to create my Capstone Project for Savvy Coders DAP Program
